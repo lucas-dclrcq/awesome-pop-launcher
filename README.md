@@ -24,7 +24,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 
 - [pass](https://github.com/pbui/pop-launcher-scripts): A command for accessing passwords from user's password store.
 
-### Display managment
+### Display management
 
 - [display](https://github.com/pbui/pop-launcher-scripts): A command for setting external monitor configuration using xrandr.
 
