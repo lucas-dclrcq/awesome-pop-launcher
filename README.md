@@ -20,6 +20,10 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 - [wd](https://github.com/erauer/wd-launcher): Simple launcher plugin for Pop Launcher for use with wd.
 - [jetbrains](https://github.com/oknozor/pop-launcher-jetbrains-plugin): Launch your jetbrains IDE projects from pop-launcher
 
+### System
+
+- [brightness](https://github.com/lucas-dclrcq/pop-launcher-brightness-plugin): A plugin to control your screen's brightness
+
 ### Password managers
 
 - [pass](https://github.com/pbui/pop-launcher-scripts): A command for accessing passwords from user's password store.
