@@ -11,7 +11,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 
 ## Plugins
 
-*Official plugins are packaged with Pop Launcher`
+*Official plugins are packaged with Pop Launcher*
 
 ### Web
 
