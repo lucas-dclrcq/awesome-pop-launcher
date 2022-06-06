@@ -21,6 +21,8 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 ### Productivity
 
 - [calc](https://github.com/pop-os/launcher/blob/master/plugins/src/calc): Calculator with unit conversion (uses Qalculate! expressions) ![Official](https://img.shields.io/badge/-Official-blue)
+- [pop-dictionary](https://github.com/canadaduane/pop-dictionary/tree/main/launcher-plugin-define): Show dictionary definitions ![Community](https://img.shields.io/badge/-Community-red)
+
 
 ### File navigation
 
