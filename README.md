@@ -39,6 +39,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 ### System
 
 - [brightness](https://github.com/lucas-dclrcq/pop-launcher-brightness-plugin): A plugin to control your screen's brightness ![Community](https://img.shields.io/badge/-Community-red)
+- [NetworkManager](https://gitlab.com/jokeyrhyme/pop-launcher-plugin-networkmanager-rs): Control NetworkManager to discover and connect to Wi-Fi networks, etc ![Community](https://img.shields.io/badge/-Community-red)
 - [pulse](https://github.com/pop-os/launcher/blob/master/plugins/src/pulse): Control PulseAudio devices and volume ![Official](https://img.shields.io/badge/-Official-blue)
 
 ### Password managers
