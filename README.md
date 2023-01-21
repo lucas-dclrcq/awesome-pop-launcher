@@ -45,6 +45,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 ### Password managers
 
 - [pass](https://github.com/pbui/pop-launcher-scripts): A command for accessing passwords from user's password store. ![Community](https://img.shields.io/badge/-Community-red)
+- [bitwarden](https://github.com/denogio/pop-launcher-bitwarden): A command (bw) for accessing passwords from user's bitwarden vault. ![Community](https://img.shields.io/badge/-Community-red)
 
 ### Display management
 
