@@ -55,4 +55,6 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 
 ### Plugin tutorial
 
+- [Writing a stackoverflow plugin for pop-launcher](https://oknozor.github.io/blog/write-a-pop-launcher-plugin/)
+
 ### Pop-launcher client tutorial
