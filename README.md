@@ -30,6 +30,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 - [files](https://github.com/pop-os/launcher/blob/master/plugins/src/files): File navigation with tab autocomplete ![Official](https://img.shields.io/badge/-Official-blue)
 - [recent](https://github.com/pop-os/launcher/blob/master/plugins/src/recent): Recently-opened document search ![Official](https://img.shields.io/badge/-Official-blue)
 - [wd](https://github.com/erauer/wd-launcher): Simple launcher plugin for Pop Launcher for use with wd. ![Community](https://img.shields.io/badge/-Community-red)
+- [pdfgrep](https://github.com/W00kyz/pop-launcher-pdfgrep): File search on pdf contents. ![Community](https://img.shields.io/badge/-Community-red)
 
 ### Development
 
