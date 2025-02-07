@@ -17,7 +17,7 @@ Curated list of [Pop Launcher](https://github.com/pop-os/launcher) resources.
 - [web](https://github.com/pop-os/launcher/blob/master/plugins/src/web): Launch a web search using several providers (duck duck go, google, aliexpress, etc) ![Official](https://img.shields.io/badge/-Official-blue)
 - [duckduckgo-bangs](https://github.com/foo-dogsquared/pop-launcher-plugin-duckduckgo-bangs): A Pop launcher plugin that provides a quick searching interface with Duckduckgo bangs. ![Community](https://img.shields.io/badge/-Community-red)
 - [firefox-tabs](https://github.com/rcastill/pop-launcher-firefox-tabs): Plugin that lists firefox tabs in pop os launcher. ![Community](https://img.shields.io/badge/-Community-red)
-
+- [firefox-bookmarks](https://github.com/oknozor/pop-launcher-firefox-plugin): Search and open Firefox bookmarks directly from your launcher with fuzzy matching and bookmark icons. ![Community](https://img.shields.io/badge/-Community-red)
 ### Productivity
 
 - [calc](https://github.com/pop-os/launcher/blob/master/plugins/src/calc): Calculator with unit conversion (uses Qalculate! expressions) ![Official](https://img.shields.io/badge/-Official-blue)
